@@ -11,7 +11,7 @@ This guide provides comprehensive instructions for setting up Python development
 
 Choose your preferred IDE:
 
-- **My recommednation**: Start with VS Code, you can expand into a full-blown IDE it as required.
+- **My recommednation**: Start with VS Code, you can expand it into a full-blown IDE as required.
 - **For students**: PyCharm Professional is free with GitHub Student Pack. GitHub Coplot extension is also free for students within VS Code (also free limited number of requests per month).
 
 ---
@@ -22,8 +22,7 @@ Before installing any IDE, ensure you have:
 
 ### Python Installation
 
-- **Python 3.8+** (recommended: Python 3.10 or 3.11)
-- **Package manager**: pip (comes with Python) or conda
+- **Python 3.8+** (recommended: Python 3.10 or 3.11 or newer)
 
 ## 🔧 Option 1: Visual Studio Code Setup
 
@@ -306,7 +305,7 @@ python -m ipykernel install --user --name=my_env
 
 ## 🎯 Next Steps
 
-1. **Setup your Virtual Environment** using this guide: [Virtual Environment Setup Guide](../VirtualEnv/README_venv.md)
+1. **Setup your Virtual Environment** using this guide: [Virtual Environment Setup Guide](../VirtualEnv/README.md)
 
 ---
 
