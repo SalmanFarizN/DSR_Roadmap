@@ -137,7 +137,7 @@ pip install uv
 
 ## 🔧 Workflow 1: pyenv + pip + venv
 
-### Step 1: Install and Set Python Version
+### Step 1: Install and Set Python Version (pyenv)
 
 ```bash
 # List available Python versions
@@ -156,7 +156,7 @@ pyenv local 3.11.9
 python --version
 ```
 
-### Step 2: Create Virtual Environment
+### Step 2: Create Virtual Environment (venv)
 
 ```bash
 # Create virtual environment
@@ -172,7 +172,7 @@ source ds_env/bin/activate
 which python
 ```
 
-### Step 3: Install Dependencies
+### Step 3: Install Dependencies (pip)
 
 ```bash
 # Upgrade pip
@@ -647,6 +647,6 @@ python -m ipykernel install --user --name=new_env_name
 
 ## 🎯 Next Steps
 
-1. **Setup your first git repo** using this guide: [Git Setup Guide](../GitHub_repo/README_git.md)
+1. **Setup your first git repo** using this guide: [Git Setup Guide](../GitHub_repo/README.md)
 
 *Choose the workflow that fits your project needs and development style! 🚀*
