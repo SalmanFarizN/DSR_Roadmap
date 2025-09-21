@@ -24,9 +24,9 @@ DSR_Roadmap/
 ├── IDE/                      # IDE setup guides
 │   └── README.md            # VS Code & PyCharm setup
 ├── VirtualEnv/              # Virtual environment guides  
-│   └── README_venv.md       # pyenv+venv, conda, uv workflows
+│   └── README.md       # pyenv+venv, conda, uv workflows
 └── GitHub_repo/             # Version control guides
-    └── README_git.md        # Git & GitHub integration
+    └── README.md        # Git & GitHub integration
 ```
 
 ---
@@ -42,7 +42,7 @@ Follow these guides in order for the complete setup:
 - Platform-specific installation for Windows, macOS, Linux
 - Essential extensions and configuration
 
-### 2. **Virtual Environments** → [`VirtualEnv/README_venv.md`](./VirtualEnv/README_venv.md)
+### 2. **Virtual Environments** → [`VirtualEnv/README.md`](./VirtualEnv/README.md)
 
 Choose your preferred workflow:
 
@@ -50,7 +50,7 @@ Choose your preferred workflow:
 - **conda**: Data science-focused with built-in package management
 - **uv**: Modern, fast dependency resolution with hybrid compatibility
 
-### 3. **Version Control** → [`GitHub_repo/README_git.md`](./GitHub_repo/README_git.md)
+### 3. **Version Control** → [`GitHub_repo/README.md`](./GitHub_repo/README.md)
 
 - Git installation and configuration
 - GitHub account setup and SSH authentication
