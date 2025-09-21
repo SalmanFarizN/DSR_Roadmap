@@ -43,7 +43,7 @@ sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.11 
 
 ## ✅ Quick Setup Checklist
 
-- [✅] Python 3.8+ installed
+- ✅ Python 3.8+ installed
 - [ ] IDE installed (VS Code or PyCharm)
 - [ ] Essential extensions/plugins installed
 - [ ] Project structure created
@@ -54,4 +54,4 @@ sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.11 
 
 ## 🎯 Next Steps
 
-1. **Setup your IDE** using this guide: [IDE Setup Guide](../IDE/README_IDE.md)
+1. **Setup your IDE** using this guide: [IDE Setup Guide](../IDE/README.md)
